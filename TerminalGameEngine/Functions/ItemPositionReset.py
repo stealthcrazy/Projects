@@ -1,0 +1,10 @@
+def PositionReset(display,position,y1,y2,y3):
+    display[y1][position] = ' '
+    display[y1][position+1] = ' '
+    display[y1][position+2] = ' '
+    display[y2][position] = ' '
+    display[y2][position+1] =  ' '
+    display[y2][position+2] = ' '
+    display[y3][position] = ' '
+    display[y3][position+1] =  ' '
+    display[y3][position+2] =  ' '
