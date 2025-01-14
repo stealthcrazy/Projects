@@ -1,7 +1,7 @@
 # Projects
 
 # Hi there College Admissions!
-# My name is Sohan Prabhu
-# I am currently proccess of uploading all my projects that i have worked on to this Github repository and it might take some time to it upload all.
+# My name is Sohan S Prabhu
 # These projects have been all done by me 
+# There are a few projects left to add to this repository and will be done shortly
 
