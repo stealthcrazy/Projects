@@ -3,7 +3,7 @@ import os
 import time
 X,Y = 10,10
 tty.setcbreak(sys.stdin)
-
+# Conways Game of Life project
 def Grid(x, y):
     grid = []  # empty grid
     for i in range(y):  # generates row
